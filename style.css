@@ -1,0 +1,66 @@
+*{
+    background-color: rgb(255, 255, 255);
+    align-content: center;
+}
+.head{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: lightblue;
+    border-top: 2px solid rgb(0, 0, 0);
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+a{
+    margin-left: 10%;
+    font-size: larger;
+    background-color: lightblue;
+}
+
+a :visited{
+    color: blueviolet;
+}
+
+h3{
+    font-size: x-large;
+    position:relative;    
+    bottom:300px;
+    left:35%;
+    color: rgb(255, 0, 0);
+}
+p{
+    position:relative;    
+    bottom:350px;
+    left:35%;
+    color: rgb(0, 0, 0);
+}
+
+.h{
+    margin-left: 13%;
+    margin-right: 5%;
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 5%;
+    height: 280px;
+    width: 900px;
+    white-space:break-spaces;
+    overflow:scroll;
+}
+
+.b{
+    margin-left: 13%;
+    margin-right: 5%;
+    border: 3px solid rgb(255, 0, 0);
+    border-radius: 5%;
+    height: 280px;
+    width: 900px;
+    white-space:break-spaces;
+    overflow: scroll;
+}
+.s{
+    margin-left: 13%;
+    margin-right: 5%;
+    border: 3px solid red;
+    border-radius: 5%;
+    height: 280px;
+    width: 900px;
+    white-space:break-spaces;
+    overflow: scroll;
+}
